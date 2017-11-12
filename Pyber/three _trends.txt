@@ -1,0 +1,5 @@
+1) There appears to be some untapped potential in the Rural markets.  Although only 3% of the drivers are in rural areas, they are bringing in 17% of the total fares. 
+
+2) Although there are more drivers and more rides in Urban areas, because there are so few drivers in Rural areas, those drivers are kept busier by taking on more fares. 
+
+3) This dataset would be more useful if it included the average distance of each ride.  It would be interesting if we could see if the average rate in rural areas are underpriced.  I would think that the distances would be greater, but the average fares appear to be lower?
